@@ -53,9 +53,20 @@ Esta propuesta está alineada con las mejores prácticas del mercado y los está
     * [Diagrama de Componentes (C3) - Fraud Service](./diagrams/c4-model/C3-DIAGRAMA_DE_COMPONENTE-FRAUD_SERVICE.png)
     * [Diagrama de Componentes (C3) - Integration Layer](./diagrams/c4-model/C3-DIAGRAMA_DE_COMPONENTE-INTEGRATION_LAYER.png)
     * [Diagrama de Componentes (C3) - Notification Service](./diagrams/c4-model/C3-DIAGRAMA_DE_COMPONENTE-NOTIFICATION_SERVICE.png)
+    * [Diagrama de Componentes (C3) - Disaster Recovery Service](./diagrams/c4-model/C3-DRS.png)
+    * [Diagrama de Componentes (C3) - Customer Profile Service](./diagrams/c4-model/C3-CUSTOMER_PROFILE_SERVICE.png)
+    * [Diagrama de Componentes (C3) - Paymet Service](./diagrams/c4-model/C3-PAYMENT_SERVICE.png)
+    * [Diagrama de Componentes (C3) - Disaster Recovery Service](./diagrams/c4-model/C3-DIAGRAMA_DE_COMPONENTE-NOTIFICATION_SERVICE.png)
     * [Diagrama de Infraestructura Azure Cloud](./diagrams/infrastructure/DIAGRAMA_DE_INFRAESTRUCTURA.png)
     * [Diagrama de Infraestructura de Red Azure Cloud](./diagrams/infrastructure/DIAGRAMA_DE_INFRAESTRUCTURA_DE_RED.png)
     * [Diagrama de Infraestructura de Seguridad Azure Cloud](./diagrams/infrastructure/DIAGRAMA_DE_INFRAESTRUCTURA_DE_SEGURIDAD.png)
+    * [Proceso de Autenticación](./diagrams/c4-model/Flujo_Autenticación.png)
+    * [Proceso de Transferencias](./diagrams/c4-model/Proceso_transferencias.png)
+    * [Proceso de Onboarding](./diagrams/c4-model/Onboarding.png)
+    * [Aplicación Móvil](./diagrams/c4-model/Movil_App.png)
+    * [Aplicación Web](./diagrams/c4-model/Web_App.png)
+    * [Arquitectura de Datos](./diagrams/c4-model/Arquitectura_Datos.png)
+    * [Aplicación Web](./diagrams/infrastructure/Seguridad_capas.png)
 * **`/docs`**: Documentación detallada que justifica las decisiones de arquitectura.
     * [1. Selección de Tecnologías Frontend](./docs/01-frontend.md)
     * [2. Flujo de Autenticación](./docs/02-authentication-flow.md)
@@ -63,5 +74,5 @@ Esta propuesta está alineada con las mejores prácticas del mercado y los está
     * [4. Principios de Arquitectura usados](./docs/04-architectural-principles.md)
     * [5. Cumplimiento Normativo](./docs/05-regulatory-compliance.md)
     * [6. Documento a Detalle Consolidado más Estrategias de Implementación](./docs/general/Arquitectura%20de%20Sistema%20de%20Banca%20por%20Internet.pdf)
-* **`/src`**: Código en formato dsl (structurizr) para visualizar cada uno de los diagramas antes descritos. Para visualizar los diagramas, es necesario acceder a [www.structurizer.com/dsl](https://www.structurizer.com/dsl), copiar el código que se encuentra en el archivo dsl, pegarlo en el editor de la página, y seleccionar el botón **Render** para visualizar los diagramas.
+* **`/src`**: Código en formato dsl (structurizr) para visualizar cada uno de los diagramas antes descritos. Para visualizar los diagramas, es necesario acceder a [www.structurizer.com/dsl](https://www.structurizr.com/dsl), copiar el código que se encuentra en el archivo dsl, pegarlo en el editor de la página, y seleccionar el botón **Render** para visualizar los diagramas.
     * [Archivo dsl con el código de los diagramas](./src/c4-model_and_infrastructure.dsl)
