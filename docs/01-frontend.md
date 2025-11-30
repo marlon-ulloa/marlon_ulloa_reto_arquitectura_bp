@@ -14,7 +14,7 @@ Para lograrlo, se han definido **dos pilares tecnológicos**:
 
 
 ## 2. Aplicación Web SPA con React.js + TypeScript
-  * [Aplicación Web](../diagrams/c4-model/Web_App.png)
+![Aplicación Web](../diagrams/c4-model/Web_App.png)
 
 ### 2.1. Características Clave
 - **Tipo:** SPA (Single Page Application)
@@ -34,7 +34,7 @@ Para lograrlo, se han definido **dos pilares tecnológicos**:
 
 
 ## 3. Aplicación Móvil con Flutter + Dart
-  * [Aplicación Móvil](../diagrams/c4-model/Movil_App.png)
+![Aplicación Móvil](../diagrams/c4-model/Movil_App.png)
 
 ### 3.1. Características Clave
 - **Tipo:** Aplicación móvil multiplataforma (iOS y Android)
