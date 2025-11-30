@@ -18,7 +18,7 @@ La solución se apoya en el **Authentication Service** desplegado en la nube, in
 - **Redis** – Almacenamiento de sesiones y control de expiración.
 
 ## 3. Flujo de Autenticación – Paso a Paso
-   * [Proceso de Autenticación](../diagrams/c4-model/Flujo_Autenticación.png)
+![Proceso de Autenticación](../diagrams/c4-model/Flujo_Autenticación.png)
 
 1. **Inicio de Sesión (Cliente Web/Móvil)**  
    - El usuario ingresa credenciales en la aplicación (SPA React o App Flutter).
